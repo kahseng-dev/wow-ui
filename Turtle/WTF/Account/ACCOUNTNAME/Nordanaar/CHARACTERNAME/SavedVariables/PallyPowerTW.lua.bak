@@ -1,0 +1,23 @@
+
+PallyPower_Assignments = {
+	["Wqke"] = {
+	},
+}
+PallyPower_AuraAssignments = {
+}
+PallyPower_NormalAssignments = {
+}
+PP_PerUser = {
+	["scalebar"] = 1,
+	["scalemain"] = 1,
+	["playsoundwhen0"] = true,
+	["regularblessings"] = false,
+	["scanperframe"] = 1,
+	["smartbuffs"] = 1,
+	["minimapbuttonpos"] = 30,
+	["showaurabutton"] = true,
+	["scanfreq"] = 10,
+	["showrfbutton"] = true,
+	["minimapbuttonshow"] = true,
+	["frameslocked"] = false,
+}

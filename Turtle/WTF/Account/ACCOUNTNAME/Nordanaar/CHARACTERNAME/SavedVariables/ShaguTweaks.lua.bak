@@ -1,0 +1,50 @@
+
+ShaguTweaks_config = {
+	["Hide Gryphons"] = 1,
+	["Debuff Timer"] = 1,
+	["WorldMap Window"] = 1,
+	["Nameplate Castbar"] = 1,
+	["Item Rarity Borders"] = 1,
+	["MiniMap Tweaks"] = 1,
+	["MiniMap Square"] = 1,
+	["Cooldown Numbers"] = 1,
+	["Unit Frame Class Colors"] = 1,
+	["Darkened UI"] = 1,
+	["Equip Compare"] = 1,
+	["MiniMap Clock"] = 1,
+	["Vendor Values"] = 1,
+	["Unit Frame Health Colors"] = 1,
+	["Unit Frame Big Health"] = 1,
+	["Nameplate Scale"] = 1,
+	["Unit Frame Class Portraits"] = 0,
+	["Chat Hyperlinks"] = 1,
+	["Movable Unit Frames"] = 1,
+	["Real Health Numbers"] = 1,
+	["Tooltip Details"] = 1,
+	["Auto Dismount"] = 0,
+	["WorldMap Coordinates"] = 0,
+	["Auto Stance"] = 1,
+	["Social Colors"] = 1,
+	["Chat Tweaks"] = 1,
+	["Hide Errors"] = 1,
+	["Blue Shaman Class Colors"] = 1,
+	["Enemy Castbars"] = 1,
+	["Sell Junk"] = 1,
+	["WorldMap Class Colors"] = 1,
+	["Nameplate Class Colors"] = 1,
+	["Reduced Actionbar Size"] = 0,
+	["Turtle WoW Compatibility"] = 1,
+}
+ShaguTweaks_cache = {
+	["prediction"] = {
+		["Nordanaar"] = {
+			["Wqke"] = {
+				["heals"] = {
+				},
+			},
+		},
+	},
+	["players"] = {},
+	["libhealth"] = {
+	},
+}

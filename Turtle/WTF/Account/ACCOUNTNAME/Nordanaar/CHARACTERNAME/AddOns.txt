@@ -1,0 +1,2 @@
+Bongos_MapBar: enabled
+Bongos_XP: enabled

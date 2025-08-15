@@ -1,0 +1,27 @@
+
+AtlasLootCharDB = {
+	["DefaultTT"] = true,
+	["ItemSyncTT"] = false,
+	["ItemIDs"] = false,
+	["ShowSource"] = true,
+	["LastBossText"] = "Dungeons & Raids",
+	["Opaque"] = false,
+	["SafeLinks"] = false,
+	["SearchResult"] = {
+	},
+	["EquipCompare"] = false,
+	["MinimapButtonRadius"] = 78,
+	["FirstTime"] = true,
+	["PartialMatching"] = true,
+	["LastBoss"] = "DUNGEONSMENU1",
+	["HidePanel"] = false,
+	["AllLinks"] = true,
+	["QuickLooks"] = {
+	},
+	["WishList"] = {
+	},
+	["MinimapButtonPosition"] = 315,
+	["ItemSpam"] = false,
+	["MinimapButton"] = true,
+	["LootlinkTT"] = false,
+}

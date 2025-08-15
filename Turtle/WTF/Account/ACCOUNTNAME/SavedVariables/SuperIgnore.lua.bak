@@ -1,0 +1,39 @@
+
+SI_Global = {
+	["BanOptOfficer"] = false,
+	["BanOptYell"] = true,
+	["WhisperUnignore"] = true,
+	["BanOptEmote"] = true,
+	["BanOptGuild"] = false,
+	["DebugLog"] = false,
+	["BanOptWhisper"] = true,
+	["BanOptParty"] = false,
+	["BannedSelected"] = 1,
+	["BanOptSay"] = true,
+	["BannedPlayers"] = {
+	},
+	["BanOptPublic"] = true,
+	["BanOptInvite"] = true,
+	["WhisperBlock"] = false,
+	["BanOptBg"] = true,
+	["Mods"] = {
+		["Custom Filter"] = {
+			["Enabled"] = false,
+			["Vars"] = {
+			},
+		},
+		["ChatSanitizer"] = {
+			["Enabled"] = false,
+			["Vars"] = {
+			},
+		},
+		["Special Snowflake Blocker"] = {
+			["Enabled"] = false,
+			["Vars"] = {
+			},
+		},
+	},
+	["BanOptDuel"] = true,
+	["BanOptTrade"] = true,
+	["BanDuration"] = 6,
+}
